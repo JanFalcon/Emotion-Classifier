@@ -1,0 +1,1 @@
+Emotion Classifier using Naive Bayes Algorithm (Not Optimal) created when i was noob in java. Better version exist already in my Book Genre Classifier which is also very very not optimal (Not Recommended).
